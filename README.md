@@ -62,6 +62,10 @@
     </td> -->
     <td align="center" width="90">
     </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
   </tr>
 </table>
 
@@ -96,6 +100,12 @@
         <a href="https://threejs.org/" target="_blank"><img alt="Three.js" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/three.js.svg" /></a>
         <br>Three.js
     </td> -->
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
   </tr>
 </table>
 
@@ -166,6 +176,8 @@
     </td>
     <td align="center" width="90">
     </td>
+    <td align="center" width="90">
+    </td>
   </tr>
 </table>
 
@@ -195,6 +207,8 @@
     <td align="center" width="90">
         <a href="https://www.postman.com/" target="_blank"><img alt="Postman" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Postman.png" /></a>
         <br><h4>Postman</h4>
+    </td>
+    <td align="center" width="90">
     </td>
     <td align="center" width="90">
     </td>
