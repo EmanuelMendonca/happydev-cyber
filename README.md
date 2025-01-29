@@ -81,8 +81,8 @@
       <br>jQuery
     </td>
     <td align="center" width="90">
-        <a href="https://requests.readthedocs.io/" target="_blank"><img alt="Requests" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/libraries/requests.svg" /></a>
-        <br>Requests
+        <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
+        <br>Node.js
     </td>
     <td align="center" width="90">
         <a href="https://beautiful-soup-4.readthedocs.io/" target="_blank"><img alt="Beautiful Soup" width="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/libraries/beautiful-soup.svg" /></a>
@@ -125,14 +125,6 @@
         <br>Angular
     </td>
     <td align="center" width="90">
-        <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
-        <br>Node.js
-    </td>
-    <td align="center" width="90">
-        <a href="https://laravel.org/" target="_blank"><img alt="Laravel" width="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/laravel.gif" /></a>
-        <br>Laravel
-    </td>
-    <td align="center" width="90">
         <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/django.svg" /></a>
         <br>Django
     </td>
@@ -143,6 +135,12 @@
     <td align="center" width="90">
         <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" /></a>
         <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
     </td>
     <td align="center" width="90">
     </td>
