@@ -2,9 +2,9 @@
 
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-<h1 align="center"> 👋 Hello! I'm Munger Nicholas A<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> 👋 Hello! I'm Emanuel Mendonca<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/happydev-cyber"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Application%20Developer;Full%20Stack-developer;10+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/EmanuelMendonca"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Application%20Developer;Full%20Stack-developer;10+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <h2 align="center" font-weight="bold">
@@ -14,7 +14,7 @@
     </a>
 </h2>  
 
-<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=happydev-cyber&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
+<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=EmanuelMendonca&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
 
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
@@ -27,7 +27,7 @@
 <br><br>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=happydev-cyber&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=EmanuelMendonca&theme=juicyfresh&no-bg=true" />
 </div>
 
 
@@ -232,18 +232,18 @@
 <table align="center">
   <tr>
     <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=happydev-cyber" alt="happydev-cyber" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=EmanuelMendonca" alt="EmanuelMendonca" /></a>
     </td>
     <td align="center" width="60%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happydev-cyber&theme=transparent" alt="happydev-cyber" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmanuelMendonca&theme=transparent" alt="EmanuelMendonca" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="40%">
-        <a href="#-my-github-stats--" target="_blank"><img alt="happydev-cyber" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=happydev-cyber&theme=transparent" /></a>
+        <a href="#-my-github-stats--" target="_blank"><img alt="EmanuelMendonca" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmanuelMendonca&theme=transparent" /></a>
     </td>
     <td align="center" width="55%">
-        <a href="#-my-github-stats--"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=happydev-cyber&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="happydev-cyber" /></a>
+        <a href="#-my-github-stats--"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=EmanuelMendonca&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="EmanuelMendonca" /></a>
     </td>
   </tr>
 </table>
@@ -254,4 +254,4 @@
 
 ------
 <img align="left" height=200px src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="100%" style="display:inline;position:absolute">
-Credit: [happydev-cyber](https://github.com/happydev-cyber)
+Credit: [EmanuelMendonca](https://github.com/EmanuelMendonca)
